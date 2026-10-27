@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="API/API.csproj" />
+  <Project Path="BLL/BLL.csproj" />
+  <Project Path="DAL/DAL.csproj" />
+  <Project Path="ECommerce.IntegrationTests/ECommerce.IntegrationTests.csproj" Id="5f9a9343-7f20-4e5e-9c6e-02781fe57e1c" />
+  <Project Path="ECommerce.UnitTests/ECommerce.UnitTests.csproj" Id="452550dd-8697-4e01-86f6-9a8df2e8d042" />
+</Solution>
